@@ -24,3 +24,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neodev27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+***以前のアカウント @neondev27 にアクセスできなくなったため、このアカウントをフォローしていただけると幸いです。***
