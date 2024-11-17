@@ -1,6 +1,6 @@
 # Ahmet KAYA
 
-[🇹🇷 Türkçe](./README.md) | [🇺🇸 English](./README.en.md) | [🇯🇵 日本語](./README.jp.md)
+[🇹🇷 Türkçe](./README.md) | [🇺🇸 English](./README.en.md) | [🇯🇵 日本語](./README.jp.md) | [ 🇸🇦 عربي](./README.ar.md) | [🇪🇸Español](./README.es.md)
 
 ---
 
