@@ -28,3 +28,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neodev27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+<div dir="rtl">
+
+  ***فقدت الوصول إلى حسابي القديم @neondev27، لذا سأكون ممتناً إذا قمت بمتابعة هذا الحساب.***
+</div>
