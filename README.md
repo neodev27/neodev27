@@ -30,8 +30,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neodev27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
-Her dil için notu hazırlıyorum:
-
 ---
+
 ***Eski hesabım @neondev27'ye erişimimi kaybettiğim için bu hesabı takip ederseniz sevinirim.***
 
