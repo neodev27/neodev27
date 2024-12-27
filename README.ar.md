@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&pause=100&color=2E9E19&width=450&lines=%3A%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D9%85%D8%B3%D8%AA%D9%85%D8%B1;communidia.one)](https://git.io/typing-svg)
 <div align="center" dir="rtl">
   <h1>👋 مرحباً، أنا أحمد كايا</h1>
   <p><i>مصمم واجهات المستخدم وطالب ترجمة</i></p>
