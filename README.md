@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&pause=100&color=2E9E19&width=450&lines=Ongoing+Project%3A;communidia.one)](https://git.io/typing-svg)
 # Ahmet KAYA
 
 [🇹🇷 Türkçe](./README.md) | [🇺🇸 English](./README.en.md) | [🇯🇵 日本語](./README.jp.md) | [ 🇸🇦 عربي](./README.ar.md) | [🇪🇸Español](./README.es.md)
