@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&pause=100&color=2E9E19&width=450&lines=Ongoing+Project%3A;communidia.one)](https://git.io/typing-svg)
 <div align="center">
   <h1>👋 Hi, I'm Ahmet KAYA</h1>
   <p><i>UI/UX Designer & Translation Student</i></p>
