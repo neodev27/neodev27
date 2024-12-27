@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&pause=100&color=2E9E19&width=450&lines=%E9%80%B2%E8%A1%8C%E4%B8%AD%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%3A;communidia.one)](https://git.io/typing-svg)
 <div align="center">
   <h1>👋 はじめまして、アフメット・カヤです</h1>
   <p><i>UI/UXデザイナー＆翻訳学生</i></p>
