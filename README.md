@@ -18,7 +18,7 @@
 - 🌍 Gaziantep'te yaşıyorum
 - 👨‍💻 Communidia projesinin yaratıcısı
 - 🔄 Yenilikçi fikirlere her zaman açığım
-- 💬 Yaş: 19
+- 💬 Yaş: 20
 
 ### İletişim 🤝
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/neodev27)
