@@ -12,7 +12,7 @@
 - 🌍 Resido en Gaziantep, Turquía
 - 👨‍💻 Creador del proyecto Communidia
 - 🔄 Siempre abierto a ideas innovadoras
-- 💬 Edad: 19 años
+- 💬 Edad: 20 años
 
 ### Conéctate Conmigo 🤝
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/neodev27)
