@@ -12,7 +12,7 @@
 - 🌍 トルコのガジアンテプ在住
 - 👨‍💻 Communidiaプロジェクトの作成者
 - 🔄 革新的なアイデアを常に歓迎
-- 💬 年齢：19歳
+- 💬 年齢：20歳
 
 ### 連絡先 🤝
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/neodev27)
